@@ -1,33 +1,64 @@
-# Sales Performance Analysis Dashboard (Power BI)
+# 📊 Sales Performance Analysis Dashboard (Power BI)
 
-## Project Overview
+## 📌 Project Overview
+This project analyzes sales performance using Power BI.  
+The dashboard provides insights into sales trends, profit margins, regional performance, and product analysis to support data-driven decision making.
 
-This project analyzes sales performance using Power BI.
-The dashboard helps understand sales trends, profit margins, and product performance.
+---
 
-## Tools Used
+## 🛠️ Tools & Technologies
+- Power BI  
+- Excel  
+- MySQL  
+- Data Cleaning  
+- Data Visualization  
 
-* Power BI
-* Excel
-* MySQL
-* Data Cleaning
-* Data Visualization
+---
 
-## Key Insights
+## 📈 Key Insights
+- Identified top-performing products contributing to revenue  
+- Analyzed profit margin trends across categories  
+- Compared sales performance by region  
+- Discovered seasonal sales patterns (peak sales periods)  
 
-* Identified top-performing products
-* Analyzed profit margin trends
-* Compared sales by region
-* Found seasonal sales patterns
+---
 
-## Files Included
+## 📂 Project Files
 
-* Sales_Performance_Analysis.pbix
-* Sales dataset
-* Dashboard screenshots
+- 📥 **Power BI Dashboard (.pbix):**  
+  [Download PBIX File]("C:\Users\siva cherry\Downloads\Sales perfromance analysis project.pbix")
 
-## Author
+- 📊 **Dataset:**  
+  [View Dataset](PASTE-YOUR-LINK-HERE)
 
-Siva Cherry
-Aspiring Data Analyst
+- 📸 **Dashboard Screenshots:**  
+  (Upload images in repo and add here)
 
+---
+
+## 📊 Dashboard Pages
+- Sales Overview  
+- Product Analysis  
+- Regional Analysis  
+- Profit Analysis  
+- Time Intelligence  
+
+---
+
+## 💡 Business Recommendations
+- Focus on high-performing products to increase revenue  
+- Improve low-profit margin categories  
+- Target high-performing regions for expansion  
+- Leverage seasonal trends for marketing campaigns  
+
+---
+
+## 👨‍💻 Author
+**Siva Cherry**  
+Aspiring Data Analyst  
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: (Add your LinkedIn link here)  
+- GitHub: (Add your GitHub profile link here)
