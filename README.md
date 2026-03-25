@@ -26,7 +26,7 @@ The dashboard provides insights into sales trends, profit margins, regional perf
 ## 📂 Project Files
 
 - 📥 **Power BI Dashboard (.pbix):**  
-  [Download PBIX File]()
+  [Download PBIX File](https://github.com/siva-1941/Sales-Performance-Analysis/raw/main/Sales%20perfromance%20analysis%20project.pbix)
 
 - 📊 **Dataset:**  
   [View Dataset](PASTE-YOUR-LINK-HERE)
