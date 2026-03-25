@@ -33,31 +33,35 @@ The dashboard provides insights into sales trends, profit margins, regional perf
 
 - 📸 **Dashboard Screenshots:**  
 
-### 📊 Overview Page.jpeg
-![Overview](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%201%20(2).jpeg)
+### 📊 Overview Page
+![Overview](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%201%20(2).jpeg) 
 
-### 📦 Category Analysis.jpeg
+This dashboard helps stakeholders quickly identify trends, optimize sales strategies, and improve business performance.
+
+### 📦 Category Analysis
 ![Category Analysis](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%202%20(2).jpeg)
 
-### 💰 Sales & Profit Analysis.jpeg
+### 💰 Sales & Profit Analysis
 ![Sales & Profit](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%203%20(2).jpeg)
 
-### 🏆 Top Performance Analysis.jpeg
+### 🏆 Top Performance Analysis
 ![Top Performance](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%204%20(2).jpeg)
 
-### 💡 Business Insights.jpeg
+### 💡 Business Insights
 ![Business Insights](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%205%20(2).jpeg)
 
 ---
 
 ## 📊 Dashboard Pages
-- Overview.jpeg
-- Category_analysis.jpeg
-- Sales_profit.jpeg
-- Top_performance.jpeg
-- Business_insights.jpeg 
-
+- Overview Page – High-level sales performance summary  
+- Category Analysis – Performance by product category  
+- Sales & Profit Analysis – Revenue vs profitability insights  
+- Top Performance Analysis – Best products and regions  
+- Business Insights – Key findings and recommendations 
 ---
+
+## 🎯 Project Objective
+To analyze sales data and uncover insights that help improve business performance, profitability, and decision-making.    
 
 ## 💡 Business Recommendations
 - Focus on high-performing products to increase revenue  
@@ -74,5 +78,5 @@ Aspiring Data Analyst
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: (https://www.linkedin.com/in/c-siva-5641b2359/)
-- GitHub: (https://github.com/siva-1941)
+- LinkedIn: https://www.linkedin.com/in/c-siva-5641b2359/
+- GitHub: https://github.com/siva-1941
