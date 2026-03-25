@@ -29,7 +29,7 @@ The dashboard provides insights into sales trends, profit margins, regional perf
   [Download PBIX File](https://github.com/siva-1941/Sales-Performance-Analysis/raw/main/Sales%20perfromance%20analysis%20project.pbix)
 
 - 📊 **Dataset:**  
-  [View Dataset](PASTE-YOUR-LINK-HERE)
+  [View Dataset](https://github.com/siva-1941/Sales-Performance-Analysis/raw/main/Sample%20-%20Superstore.csv)
 
 - 📸 **Dashboard Screenshots:**  
   (Upload images in repo and add here)
