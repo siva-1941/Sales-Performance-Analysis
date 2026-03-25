@@ -32,16 +32,30 @@ The dashboard provides insights into sales trends, profit margins, regional perf
   [View Dataset](https://github.com/siva-1941/Sales-Performance-Analysis/raw/main/Sample%20-%20Superstore.csv)
 
 - 📸 **Dashboard Screenshots:**  
-  (Upload images in repo and add here)
+
+### 📊 Overview Page.jpeg
+![Overview](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%201%20(2).jpeg)
+
+### 📦 Category Analysis.jpeg
+![Category Analysis](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%202%20(2).jpeg)
+
+### 💰 Sales & Profit Analysis.jpeg
+![Sales & Profit](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%203%20(2).jpeg)
+
+### 🏆 Top Performance Analysis.jpeg
+![Top Performance](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%204%20(2).jpeg)
+
+### 💡 Business Insights.jpeg
+![Business Insights](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%205%20(2).jpeg)
 
 ---
 
 ## 📊 Dashboard Pages
-- Sales Overview  
-- Product Analysis  
-- Regional Analysis  
-- Profit Analysis  
-- Time Intelligence  
+- Overview.jpeg
+- Category_analysis.jpeg
+- Sales_profit.jpeg
+- Top_performance.jpeg
+- Business_insights.jpeg 
 
 ---
 
