@@ -34,22 +34,19 @@ The dashboard provides insights into sales trends, profit margins, regional perf
 - 📸 **Dashboard Screenshots:**  
 
 ### 📊 Overview Page
-![Overview](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%201%20(2).jpeg) 
-
-This dashboard helps stakeholders quickly identify trends, optimize sales strategies, and improve business performance.
+![Overview](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_Analysis%20page%201.png)
 
 ### 📦 Category Analysis
-![Category Analysis](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%202%20(2).jpeg)
+![Category Analysis](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_Analysis%20page%202.png)
 
 ### 💰 Sales & Profit Analysis
-![Sales & Profit](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%203%20(2).jpeg)
+![Sales & Profit](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_Analysis%20page%203.png)
 
 ### 🏆 Top Performance Analysis
-![Top Performance](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%204%20(2).jpeg)
+![Top Performance](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_Analysis%20page%204.png)
 
 ### 💡 Business Insights
-![Business Insights](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_analysis%205%20(2).jpeg)
-
+![Business Insights](https://github.com/siva-1941/Sales-Performance-Analysis/blob/main/Sales_Analysis%20page%205.png)
 ---
 
 ## 📊 Dashboard Pages
